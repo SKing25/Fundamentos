@@ -10,6 +10,7 @@ public class Ahorro extends Cuenta{
     @Override
     public void deposito(long valor) {
         this.saldo = valor + valor * interes;
+        this.interes = saldo * 0.03;
     }
 
     @Override
