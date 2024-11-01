@@ -1,5 +1,5 @@
 public interface IRetiro {
     
-    public void retiro(long valor);
+    void retiro(long valor);
 }
 

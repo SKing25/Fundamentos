@@ -1,4 +1,4 @@
 public interface IDeposito {
-    
-    public void deposito(long valor);
+
+    void deposito(long valor);
 }
