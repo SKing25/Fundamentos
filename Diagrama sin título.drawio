@@ -92,7 +92,7 @@
           <mxGeometry x="460" y="910" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="MU1d6jEA0dqG21eY0ADC-43" value="VistaConsultaVuelosTodos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="890" width="170" height="42" as="geometry" />
+          <mxGeometry x="657" y="870" width="170" height="42" as="geometry" />
         </mxCell>
         <mxCell id="MU1d6jEA0dqG21eY0ADC-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.689;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MU1d6jEA0dqG21eY0ADC-42" target="MU1d6jEA0dqG21eY0ADC-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
