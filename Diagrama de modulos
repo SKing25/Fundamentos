@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4">
   <diagram name="Página-1" id="x0FtuCzx1DNqiBe1ldZI">
-    <mxGraphModel dx="4074" dy="2260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1141" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,15 +53,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nI26KT2q79OYl4c5ZUAa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nI26KT2q79OYl4c5ZUAa-4" target="nI26KT2q79OYl4c5ZUAa-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="640" y="380" />
-              <mxPoint x="480" y="380" />
-              <mxPoint x="480" y="597" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nI26KT2q79OYl4c5ZUAa-4" value="Modulo de reservas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -105,9 +96,6 @@
         </mxCell>
         <mxCell id="nI26KT2q79OYl4c5ZUAa-18" value="&lt;div&gt;Reserva pasajero&lt;/div&gt;&lt;div&gt;busquedaVuelo(buscar un vuelo que este disponible),&lt;/div&gt;&lt;div&gt;puestoDisponibles(se muestran los números de puestos vacíos para que el pasajero seleccione un puesto &quot;para poder reservar un puesto el pasajero se tiene que encontrar registrado&quot;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="400" width="270" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="nI26KT2q79OYl4c5ZUAa-20" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Eliminar reserva&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;usuarioNoEncontrado(si el usuario no se encuentra registrado no se creara la reserva)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CancelarReserva(el pasajero podrá eliminar la reserva)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="512.5" y="550" width="255" height="95" as="geometry" />
         </mxCell>
         <mxCell id="nI26KT2q79OYl4c5ZUAa-23" value="&lt;div&gt;Pasajeros[identificación, nombrePasajero, edad, genero]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="395" width="300" height="55" as="geometry" />
