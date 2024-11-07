@@ -34,11 +34,11 @@
         <mxCell id="MU1d6jEA0dqG21eY0ADC-16" value="+create(Pasajero pasajero):void()&lt;div&gt;&amp;nbsp;+read(int id):Persona()&amp;nbsp;&lt;/div&gt;&lt;div&gt;+update(Pasajero pasajero):int()&amp;nbsp;&lt;/div&gt;&lt;div&gt;+delete(Pasajero pasajero):int()&lt;/div&gt;&lt;div&gt;&amp;nbsp;+consultar Todos(): List&amp;lt;Pasajeros&amp;gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="410" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MU1d6jEA0dqG21eY0ADC-17" value="PasajeroDao" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MU1d6jEA0dqG21eY0ADC-17" value="VueloDao" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="370" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="MU1d6jEA0dqG21eY0ADC-18" value="+create(Pasajero pasajero):void()&lt;div&gt;&amp;nbsp;+read(int id):Persona()&amp;nbsp;&lt;/div&gt;&lt;div&gt;+update(Pasajero pasajero):int()&amp;nbsp;&lt;/div&gt;&lt;div&gt;+delete(Pasajero pasajero):int()&lt;/div&gt;&lt;div&gt;&amp;nbsp;+consultar Todos(): List&amp;lt;Pasajeros&amp;gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="400" width="220" height="90" as="geometry" />
+        <mxCell id="MU1d6jEA0dqG21eY0ADC-18" value="&lt;div&gt;+create(Vuelo vuelo):int()&lt;/div&gt;&lt;div&gt;+read(int numero):Vuelo()&lt;/div&gt;&lt;div&gt;+update(Vuelo vielo):int()&lt;/div&gt;&lt;div&gt;+delete(Vuelo vuelo):int()&lt;/div&gt;&lt;div&gt;+consultar Todos(): List&amp;lt;Vuelos&amp;gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="410" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
