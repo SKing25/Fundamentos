@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Página-1" id="D2b43SD90iTzMDB2sd6u">
-    <mxGraphModel dx="930" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="570" y="60" width="110" height="42" as="geometry" />
         </mxCell>
         <mxCell id="MU1d6jEA0dqG21eY0ADC-14" value="&lt;div&gt;modelo Dao&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="30" y="260" width="700" height="350" as="geometry" />
+          <mxGeometry x="30" y="260" width="540" height="350" as="geometry" />
         </mxCell>
         <mxCell id="MU1d6jEA0dqG21eY0ADC-15" value="PasajeroDao" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="380" width="210" height="130" as="geometry" />
@@ -37,17 +37,41 @@
         <mxCell id="MU1d6jEA0dqG21eY0ADC-18" value="&lt;div&gt;+create(Vuelo vuelo):int()&lt;/div&gt;&lt;div&gt;+read(int numero):Vuelo()&lt;/div&gt;&lt;div&gt;+update(Vuelo vielo):int()&lt;/div&gt;&lt;div&gt;+delete(Vuelo vuelo):int()&lt;/div&gt;&lt;div&gt;+consultar Todos(): List&amp;lt;Vuelos&amp;gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MU1d6jEA0dqG21eY0ADC-17">
           <mxGeometry y="26" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MU1d6jEA0dqG21eY0ADC-19" value="&lt;div&gt;modelo dto&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="30" y="640" width="700" height="350" as="geometry" />
+        <mxCell id="MU1d6jEA0dqG21eY0ADC-19" value="&lt;div&gt;modelo dto (Modulo reservas)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="640" width="520" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="MU1d6jEA0dqG21eY0ADC-20" value="+create(Pasajero pasajero):void()&lt;div&gt;&amp;nbsp;+read(int id):Persona()&amp;nbsp;&lt;/div&gt;&lt;div&gt;+update(Pasajero pasajero):int()&amp;nbsp;&lt;/div&gt;&lt;div&gt;+delete(Pasajero pasajero):int()&lt;/div&gt;&lt;div&gt;&amp;nbsp;+consultar Todos(): List&amp;lt;Pasajeros&amp;gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="730" width="220" height="90" as="geometry" />
+        <mxCell id="MU1d6jEA0dqG21eY0ADC-21" value="Pasajero" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="710" width="180" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="MU1d6jEA0dqG21eY0ADC-21" value="PasajeroDao" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="710" width="290" height="160" as="geometry" />
+        <mxCell id="MU1d6jEA0dqG21eY0ADC-20" value="-id: int&lt;div&gt;-nombre: String&lt;/div&gt;&lt;div&gt;-edad: int&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MU1d6jEA0dqG21eY0ADC-21">
+          <mxGeometry y="26" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MU1d6jEA0dqG21eY0ADC-16" value="+create(Pasajero pasajero):void()&lt;div&gt;&amp;nbsp;+read(int id):Persona()&amp;nbsp;&lt;/div&gt;&lt;div&gt;+update(Pasajero pasajero):int()&amp;nbsp;&lt;/div&gt;&lt;div&gt;+delete(Pasajero pasajero):int()&lt;/div&gt;&lt;div&gt;&amp;nbsp;+consultar Todos(): List&amp;lt;Pasajeros&amp;gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="760" width="220" height="90" as="geometry" />
+          <mxGeometry x="45" y="410" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MU1d6jEA0dqG21eY0ADC-22" value="Vuelo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="720" width="180" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="MU1d6jEA0dqG21eY0ADC-23" value="-numero: int&lt;div&gt;-destino: String&lt;/div&gt;&lt;div&gt;-numeroSillas: int&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MU1d6jEA0dqG21eY0ADC-22">
+          <mxGeometry y="26" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MU1d6jEA0dqG21eY0ADC-24" value="Reserva" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="870" width="185" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MU1d6jEA0dqG21eY0ADC-25" value="-vuelo:Vuelo&lt;div&gt;+&lt;span style=&quot;background-color: initial;&quot;&gt;List&amp;lt;Pasajeros&amp;gt; listaPasajero&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MU1d6jEA0dqG21eY0ADC-24">
+          <mxGeometry y="26" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MU1d6jEA0dqG21eY0ADC-27" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.55;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MU1d6jEA0dqG21eY0ADC-20" target="MU1d6jEA0dqG21eY0ADC-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="840" as="sourcePoint" />
+            <mxPoint x="250" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MU1d6jEA0dqG21eY0ADC-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0.659;exitY=-0.03;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.45;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MU1d6jEA0dqG21eY0ADC-24" target="MU1d6jEA0dqG21eY0ADC-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="880" as="sourcePoint" />
+            <mxPoint x="400" y="830" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
