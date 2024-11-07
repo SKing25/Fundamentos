@@ -1,9 +1,123 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4">
   <diagram name="Página-1" id="x0FtuCzx1DNqiBe1ldZI">
-    <mxGraphModel>
+    <mxGraphModel dx="4074" dy="2260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nI26KT2q79OYl4c5ZUAa-1" target="nI26KT2q79OYl4c5ZUAa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nI26KT2q79OYl4c5ZUAa-1" target="nI26KT2q79OYl4c5ZUAa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nI26KT2q79OYl4c5ZUAa-1" target="nI26KT2q79OYl4c5ZUAa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nI26KT2q79OYl4c5ZUAa-1" target="nI26KT2q79OYl4c5ZUAa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-1" value="Tiquetes muy baratos.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nI26KT2q79OYl4c5ZUAa-2" target="nI26KT2q79OYl4c5ZUAa-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="390" />
+              <mxPoint x="40" y="390" />
+              <mxPoint x="40" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nI26KT2q79OYl4c5ZUAa-2" target="nI26KT2q79OYl4c5ZUAa-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="390" />
+              <mxPoint x="40" y="390" />
+              <mxPoint x="40" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-2" value="Modulo de datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-3" value="Modulo de vuelos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nI26KT2q79OYl4c5ZUAa-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="380" />
+              <mxPoint x="480" y="380" />
+              <mxPoint x="480" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nI26KT2q79OYl4c5ZUAa-4" target="nI26KT2q79OYl4c5ZUAa-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="380" />
+              <mxPoint x="480" y="380" />
+              <mxPoint x="480" y="597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-4" value="Modulo de reservas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nI26KT2q79OYl4c5ZUAa-5" target="nI26KT2q79OYl4c5ZUAa-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nI26KT2q79OYl4c5ZUAa-5" target="nI26KT2q79OYl4c5ZUAa-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="380" />
+              <mxPoint x="807" y="380" />
+              <mxPoint x="807" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nI26KT2q79OYl4c5ZUAa-5" target="nI26KT2q79OYl4c5ZUAa-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="380" />
+              <mxPoint x="807" y="380" />
+              <mxPoint x="807" y="598" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-5" value="Modulo de informes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-6" value="&lt;div&gt;registrar pasajero:&lt;/div&gt;&lt;div&gt;(id, nombre, edad, genero)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-7" value="registrar piloto&lt;div&gt;(nombre, horas de vuelo)]&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-8" value="registrar vuelo&lt;div&gt;(numero vuelo, ciudad salida, ciudad llegada, datos piloto, numero de puestos)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nI26KT2q79OYl4c5ZUAa-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-18" value="&lt;div&gt;Reserva pasajero&lt;/div&gt;&lt;div&gt;busquedaVuelo(buscar un vuelo que este disponible),&lt;/div&gt;&lt;div&gt;puestoDisponibles(se muestran los números de puestos vacíos para que el pasajero seleccione un puesto &quot;para poder reservar un puesto el pasajero se tiene que encontrar registrado&quot;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="400" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-20" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Eliminar reserva&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;usuarioNoEncontrado(si el usuario no se encuentra registrado no se creara la reserva)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CancelarReserva(el pasajero podrá eliminar la reserva)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="550" width="255" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-23" value="&lt;div&gt;Pasajeros[identificación, nombrePasajero, edad, genero]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="395" width="300" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-24" value="&lt;div&gt;Vuelos[numeroVuelo, ciudadSalida, ciudadLlegada,(datosPiloto,numeroPuestos)]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="480" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nI26KT2q79OYl4c5ZUAa-25" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;VueloPasajero[datosBasicosVuelo,datosBasicosPiloto]&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="570" width="310" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
